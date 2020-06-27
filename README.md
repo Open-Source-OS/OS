@@ -1,4 +1,4 @@
-# OS
+# OSOS
 <h1>Main Base Operating System Code Project</h1>
 <h1>Hi this is OSOS Open Source Operating System</h1>! 
 please email the idea founder at ajarnspencer@gmail.com for any inquiries or requests to join the project!</h3>
